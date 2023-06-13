@@ -1,0 +1,143 @@
+{
+    "fastQuoteCard":{
+        "title": "Why chose us as your partner?",
+        "buttonTitle": "Get Quotation",
+        "items":[
+            "30+ sets of CNC lathes",
+
+            "Up to 0.005mm-0.01mm tight tolerances",
+            
+            "Advanced quality inspection equipment",
+            
+            "Trustworthy surface and heat treatment partners",
+            
+            "Within 72h quick interactive quotes",
+                        
+            "Pass certification ISO9001:2015.",
+            
+            "Designated supplier of Fortune 500 companies"
+        ]
+    },
+    "services":{
+        "titleServices": "Our services",
+        "subtitleServices": "From Drawing to Product",
+        "items":[
+            {
+            "title": "CNC Automatic Turning",
+            "description": "CNC turning is one of the central methods of manufacturing. It can produce cylindrical parts with various contours.",
+            "image": "turning",
+            "link":"CNC_Turning"
+            },
+            {
+            "title": "CNC Automatic Milling",
+            "description": " Known for its accuracy and precision, the process is an integral part of several industries, most notable being automotive and aeronautics.",
+            "image": "milling",
+            "link":"CNC_Milling"
+            },
+            {
+            "title": "CNC Automatic Threading",
+            "description": "Threaded parts are a fundamental metalwork process. Our CNC lathes are capable of turning internal, external, standard and special threads." ,
+            "image": "thread",
+            "link":"CNC_Threading"
+            },
+            {
+            "title": "CNC Automatic Broaching",
+            "description": "Broaching is a machining process where a sharp, hardened, toothed tool removes material from a workpiece in a consistent, continuous, and accurate way. " ,
+            "image": "broaching",
+            "link":"CNC_Broaching"
+            },
+            {
+            "title": "Reworking Stamped Parts",
+            "description": "Using modern CNC lathes, we are capable of reworking stamped metal or injection-moulded plastic.",
+            "image": "ripresa",
+            "link":"reworking_pressed_parts"
+            },
+            {
+            "title": "Small Assemblies",
+            "description": "Our company has the required resources to assemble small components.",
+            "image": "assembly",
+            "link":"assemblies"
+            }]
+    },
+    "experience":{
+        "title": "50+ years of experience in the field of turning and precision mechanics.",
+        "items":[
+            "Equipped with high precision, multi-axis CNC lathes",
+            "Removal of sharp edges and burrs",
+            "Tolerances controlled in accordance with the ISO 2768 standard. Please kindly inform if you have specific tolerance requirements.",
+            "Equipped with complete inspection instruments such as: Optical Measurement Machine, Profile Measurement Machine, Roughness tester etc.",
+            "Testing report from our QC can be included in every order if specified.",
+            "Available to provide samplings as per your requests.",
+            "We are ISO 9001:2015 certified."
+        ]
+    },
+    "flow":{
+        "title": "Process flow",
+        "items":[
+        {
+        "title": "Inquiry",
+        "image": "inquiryIMG",
+        "subItems":[
+            "Online inquiry",
+            "Email inquiry",
+            "Telephone customer service"
+        ]
+        },
+        {
+            "title": "Quotation Process",
+            "image": "quotationIMG",
+            "subItems":[
+                "Request raw material quotation from suppliers"
+                ,"Feasibility check"
+                ,"Offer optimization regarding price and delivery time"]
+        },
+        {
+            "title": "Order Placement",
+            "image": "orderIMG",
+            "subItems":[
+                "Order raw materials from suppliers"
+                ,"Order special tools if needed"
+                ,"Lock schedule as per confirmed delivery date"
+                ]
+        },
+        {
+            "title": "Production",
+            "image": "productionIMG",
+            "subItems":[
+                "ISO 9001:2015 certified quality management"
+                ,"Quality inspections during production"
+                ]
+        },
+        {
+            "title": "Shipment",
+            "image": "shipmentIMG",
+            "subItems":[
+                "Articles are prepared for shipment in standard boxes."
+                ,"Other packaging and shipment specifications should be given during the inquiry process."
+                ]
+        }]
+    },
+    "contact":{
+        "title": "Get A New Quote Now ",
+        "label_form_subject": "Subject:",
+        "label_form_name": "Name:",
+        "label_form_company": "Company:",
+        "label_form_email": "Email:",
+        "label_form_phone": "Phone:",
+        "label_form_jobTitle": "Job Title:",
+        "label_form_message": "Message:",
+        "label_form_attachment": "Select your file",
+        "file_types_title": "We support the following file types",
+        "file_types":"PNG, JPEG, JPG, ZIP, RAR, PDF",
+        "disclaimer_file_types": "Please include multiple files into one ZIP or RAR file",
+        "file_types_NDA": "*All your files are entirely secured with us. Please email us if you would like us to review your NDA or can't upload the files.",
+        "call_us": "Call us:",
+        "phone_number": "+39 0119841782",
+        "email_address": "mivitsrl@gmail.com",
+        "office_hrs":"(GMT+2): 8:30PM-1PM, 1:30-5:00PM", 
+        "mail_us":"Mail us:",
+        "office_hours": "Office hours:",
+        "send_button": "Send",
+        "close_button" : "Close"
+      }
+}

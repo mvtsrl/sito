@@ -1,0 +1,10 @@
+export { default as Navbar } from "./Navbar/Navbar.jsx";
+export { default as DropdownNavbar } from "./DropdownNavbar/DropdownNavbar.jsx";
+export { default as NavigationDots } from "./NavigationDots.jsx";
+export { default as SocialMedia } from "./SocialMedia.jsx";
+export { default as ContactForm } from "./ContactForm/ContactForm.jsx";
+export { default as Footer } from "./Footer/Footer.jsx";
+export { default as PagesHeaderImage } from "./PagesHeader/PagesHeader";
+export { default as GeneralInfo } from "./GeneralInfo/GeneralInfo.jsx";
+export { default as Materials } from "./MaterialsInfo/MaterialsInfo.jsx";
+export { default as ContactPopUp } from "./ContactPupUp/ContactPopUp.jsx";

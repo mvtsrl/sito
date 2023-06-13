@@ -1,0 +1,52 @@
+{   
+    "about_section":{
+    "about_title": "CHI SIAMO",
+    "about": "Mivit Srl opera dal 1970 nel settore della tornitura e della meccanica di precisione. La nostra azienda è integrata in diversi settori produttivi quali l'elettromeccanico, l'automotive, l'impiantistica pneumatica e oleodinamica sia all'interno del mercato nazionale che internazionale.",
+    "quick_links_title": "LINKS",
+    "copyright": "Copyright (c) 2022 Tutti i diritti riservati alla Mivit Srl",
+    "vat_number": "P.IVA: 07137500018",
+    "quick_links":[
+        {
+        "title": "Chi Siamo",
+        "link":"/about"
+        },
+        {
+            "title": "Legislazione",
+            "link":"/legislation"
+        },
+        {
+            "title": "Tornitura CNC",
+            "link":"/CNC_Turning"
+        },
+        {
+            "title": "Fresatura CNC",
+            "link":"/CNC_Milling"
+        },
+        {
+            "title": "Filettatura CNC",
+            "link":"/CNC_Threading"
+        },
+        {
+            "title": "Brocciatura CNC",
+            "link":"/CNC_Broaching"
+        },
+        {
+            "title": "Rilavorazioni",
+            "link":"/reworking_pressed_parts"
+        },
+        {
+            "title": "Piccoli assemblaggi",
+            "link":"/assemblies"
+        }],
+    "office_and_plant": "Ufficio e Stabilimento",
+    "plant_address": "Strada della Bruna Vecchia, 6 - 10040 Druento TO",
+    "telephone": "+39 011 984 1782 / 252",
+    "fax": "+39 011 984 0673",
+    "fax_title": "Fax:",
+    "email":"mivitsrl@gmail.com",
+    "registered_office":"Sede legale",
+    "contact": "Contatto",
+    "registered_office_address": "Via Don Minzoni 8 - 10121 Torino"
+    }
+
+}

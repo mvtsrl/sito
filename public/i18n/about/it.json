@@ -1,0 +1,42 @@
+{
+    "about_page":{
+        "about_title": "Chi siamo",
+        "section_one_title": "50 anni di storia",
+        "section_one_content_paragraph_one": "Mivit S.R.L. è un'azienda nata negli anni '70 che opera nel settore della tornitura automatica di precisione, lavorando ogni tipo di materiale, sia esso ferroso o non ferroso (leghe leggere, acciai inossidabili, acciai legati, Titan, Teflon, ottone, alluminio,...) con dimensioni che variano da 2 mm di diametro fino a 60 mm; effettuando anche lavori di ripresa su particolari prestampati o semilavorati.",
+        "sections_one_content_paragraph_two": "Il reparto tornitura di Mivit dispone di un settore lavorazioni composto da torni a camme tradizionali (Strohm e Traub), torni CNC monomandrino a fantina mobile e fissa (Index, Traub, Hanwa, Gildemaister, Biglia, Nomura) e CNC plurimandrino torni (Utimac, Shuttle), tutti dotati di utensili motorizzati per portare a compimento anche i lavori più complessi. Tutte le macchine sono dotate di caricatori automatici di barre per ottenere una maggiore autonomia operativa.",
+        "section_two_title": "Attività",
+        "section_two_paragraph_one": "MIVIT è specializzata nella tornitura automatica di precisione e realizza minuterie metalliche mediante asportazione di piccoli trucioli di metallo. La produzione può essere realizzata per conto terzi, se specificato dal cliente.",
+        "section_two_paragraph_two": "Le principali lavorazioni svolte internamente sono:",
+        "section_two_processes":[
+        "Tornitura CNC automatica",
+        "Fresatura automatica",
+        "Filettatura automatica",
+        "Brocciatura automatica",
+        "Ripresa lavori su prodotti stampati a pressione",
+        "Piccole assemblee"],
+        "section_three_title": "Infrastruttura",
+        "section_three_paragraph_one": "I processi produttivi e lo stoccaggio delle materie prime avvengono in un'area di 4.500 mq, di cui 1600 coperti.",
+        "section_three_paragraph_two": "Il parco macchinari comprende:",
+        "section_three_list":[
+            "Torni automatici a controllo numerico in grado di lavorare barre fino ad un diametro di 70mm",
+            "Torni automatici a camme in grado di lavorare barre fino al diametro 25mm",
+            "Torni plurimandrino con passaggio barra fino a 40mm, CNC",
+            "Sistema automatico di rimozione dell'olio e separazione dei trucioli",
+            "Lavaggio con alcool modificato",
+            "Fresa, tornio e mola per la costruzione di attrezzature interne"
+        ],
+        "section_four_title":"Qualità",
+        "section_four_paragraph_one":"Le prove ed i controlli vengono effettuati in ogni fase del processo produttivo e sono effettuati con l'obiettivo di garantire il rispetto dei requisiti richiesti, vengono effettuati mediante idonei strumenti quali: proiettori, micrometri, rugosimetri ed altre attrezzature specifiche per la compito richiesto, in modo da garantire la precisione della misura e la ripetibilità.",
+        "section_four_paragraph_two":"MIVIT S.R.L. dispone di una sala metrologica non climatizzata, dotata di:",
+        "section_four_list":[
+            "Misuratore ottico a CNC",
+            "Profilometro",
+            "Rugosimetro",
+            "Proiettori di profili"
+        ],
+        "section_five_title": "Legislazione",
+        "section_five_paragraph_one":"La nostra azienda è Industria 4.0 integrata e il nostro Sistema di Gestione è conforme alla norma UNI EN ISO 9001:2015."
+        
+
+    }
+}

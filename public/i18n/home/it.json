@@ -1,0 +1,143 @@
+{
+    "fastQuoteCard":{
+        "title": "Perché scegliere noi come tuo partner?",
+        "buttonTitle": "Ottieni un preventivo",
+        "items":[
+            "Oltre 30 torni CNC",
+
+            "Tolleranze strette fino a 0,005 mm-0,01 mm",
+            
+            "Attrezzature avanzate per il controllo della qualità",
+            
+            "Partner affidabili per trattamenti superficiali e termici",
+            
+            "Entro 72h, preventivi interattivi e veloci",
+                        
+            "Azienda certificata ISO 9001:2015.",
+            
+            "Fornitore designato delle aziende Fortune 500"
+        ]
+    },
+    "services":{
+        "titleServices": "I nostri servizi",
+        "subtitleServices": "Dal disegno al prodotto",
+        "items":[
+            {
+            "title": "Tornitura automatica CNC",
+            "description": "La tornitura CNC è uno dei metodi centrali di produzione. Può produrre parti cilindriche con vari contorni.",
+            "image": "turning",
+            "link":"CNC_Turning"
+            },
+            {
+            "title": "Fresatura automatica CNC",
+            "description": "Noto per la sua accuratezza e precisione, il processo è parte integrante di diversi settori, tra cui quello automobilistico e aeronautico.",
+            "image": "milling",
+            "link":"CNC_Milling"
+            },
+            {
+            "title": "Filettatura automatica CNC",
+            "description": "Le parti filettate sono un processo di lavorazione dei metalli fondamentale. I nostri torni CNC sono in grado di eseguire filettature interne, esterne, standard e speciali." ,
+            "image": "thread",
+            "link":"CNC_Threading"
+            },
+            {
+            "title": "Brocciatura automatica CNC",
+            "description": "La brocciatura è un processo di lavorazione in cui un utensile affilato, temprato e dentato rimuove il materiale da un pezzo in lavorazione in modo uniforme, continuo e preciso." ,
+            "image": "broaching",
+            "link":"CNC_Broaching"
+            },
+            {
+            "title": "Ripresa su prodotti stampati",
+            "description": "Utilizzando moderni torni a controllo numerico siamo in grado di rilavorare metallo stampato o plastica stampata ad iniezione.",
+            "image": "ripresa",
+            "link":"reworking_pressed_parts"
+            },
+            {
+            "title": "Piccoli assemblaggi",
+            "description": "La nostra azienda ha le risorse necessarie per assemblare piccoli componenti.",
+            "image": "assembly",
+            "link":"assemblies"
+            }]
+    },
+    "experience":{
+        "title": "Oltre 50 anni di esperienza nel campo della tornitura e della meccanica di precisione.",
+        "items":[
+            "Dotato di torni CNC multiasse ad alta precisione",
+            "Rimozione di spigoli vivi e bave",
+            "Tolleranze controllate secondo la norma ISO 2768. Si prega gentilmente di informare se si hanno requisiti di tolleranza specifici.",
+            "Dotato di strumenti di ispezione completi come: macchina di misurazione ottica, macchina di misurazione del profilo, rugosimetro ecc.",
+            "Il rapporto di prova del nostro QC può essere incluso in ogni ordine, se specificato.",
+            "Disponibile a fornire campionature secondo le vostre richieste.",
+            "Azienda certificata ISO 9001:2015."
+        ]
+    },
+    "flow":{
+        "title": "Flusso di processo",
+        "items":[
+        {
+        "title": "Richiesta di preventivo",
+        "image": "inquiryIMG",
+        "subItems":[
+            "Richiesta online",
+            "Richiesta e-mail",
+            "Servizio clienti telefonico"
+        ]
+        },
+        {
+            "title": "Processo di quotazione",
+            "image": "quotationIMG",
+            "subItems":[
+                "Richiesta quotazione materia prima ai fornitori"
+                ,"Verifica fattibilità"
+                ,"Ottimizzazione dell'offerta in termini di prezzo e tempi di consegna"]
+        },
+        {
+            "title": "Ordinee d'acquisto",
+            "image": "orderIMG",
+            "subItems":[
+                "Ordina materie prime dai fornitori"
+                ,"Ordinare strumenti speciali se necessario"
+                ,"Programmazione produzione come da data di consegna confermata"
+                ]
+        },
+        {
+            "title": "Produzione",
+            "image": "productionIMG",
+            "subItems":[
+                "Gestione della qualità certificata ISO 9001:2015"
+                ,"Controlli di qualità durante la produzione"
+                ]
+        },
+        {
+            "title": "Spedizione",
+            "image": "shipmentIMG",
+            "subItems":[
+                "Gli articoli sono preparati per la spedizione in scatole standard."
+                ,"Altre specifiche di imballaggio e spedizione devono essere fornite durante il processo di richiesta."
+                ]
+        }]
+    },
+    "contact":{
+        "title": "Ottieni un preventivo",
+        "label_form_subject": "Sogetto:",
+        "label_form_name": "Nome:",
+        "label_form_company": "Azienda:",
+        "label_form_email": "Email:",
+        "label_form_phone": "Telefono:",
+        "label_form_jobTitle": "Titolo di lavoro:",
+        "label_form_message": "Specifiche:",
+        "label_form_attachment": "Seleziona il tuo file",
+        "file_types_title": "I seguenti tipi di file sono supportati",
+        "file_types":"PNG, JPEG, JPG, ZIP, RAR, PDF",
+        "disclaimer_file_types": "Si prega di includere più file in un unico file ZIP o RAR",
+        "file_types_NDA": "*Tutti i tuoi file sono completamente protetti con noi. Inviaci un'e-mail se desideri che esaminiamo il tuo accordo di non divulgazione o se non riesci a caricare i file.",
+        "call_us": "Chiamaci:",
+        "phone_number": "+39 0119841782",
+        "email_address": "mivitsrl@gmail.com",
+        "office_hrs":"(GMT+2): 8:30PM-1PM, 1:30-5:00PM", 
+        "mail_us":"Scrivici:",
+        "office_hours": "Orario ufficio:",
+        "send_button": "Invia",
+        "close_button" : "Chiudi"
+      }
+}

@@ -1,0 +1,62 @@
+.app__homepage{
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+    
+}
+.app__wrapper{
+    padding: 0rem;
+    scroll-behavior: auto !important;
+}
+
+#homepage{
+  scroll-behavior: smooth;
+}
+
+#header{
+display:flex;
+align-items: center;
+justify-content: center;
+position: relative; 
+background:url('../../assets/header-home-1200x600.png');
+background-size:cover;
+background-repeat:repeat;
+background-position:center;
+}
+
+#services{
+display:flex;
+align-items: center;
+justify-content: center;
+position: relative;
+// background:url('../../assets/bgIMG.png');
+// background-size:cover;
+// background-repeat:repeat;
+// background-position:center;
+}
+
+// #experience{
+//     // background:url('../../assets/experienceBG.png');
+//     // background:url('../../assets/contactBG.png');
+//     // background-size:cover;
+//     // background-repeat:repeat;
+//     // background-position:center;
+    
+
+// }
+
+// #flow{
+
+// }
+
+// #contact{
+//     // background:url('../../assets/contactBG.png');
+//     // background-size:cover;
+//     // background-repeat:repeat;
+//     // background-position:center;
+    
+// }

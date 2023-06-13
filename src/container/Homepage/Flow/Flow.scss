@@ -1,0 +1,239 @@
+.app__flow-wrapper{
+    display:flex;
+    width: 100%;
+    max-width: 1200px;
+    position: relative;
+    justify-content:flex;
+    align-items:center;
+    flex-direction: column;
+    transition: all 0.3s ease-in-out;
+    h1{
+        color: var(--gray-color);
+    }
+}
+
+.app__flow-container{
+    display:flex;
+    flex-direction: column;
+    width: calc(100% - 2rem);
+    padding: 0 1rem 2rem 1rem;
+
+    @media screen and (min-width: 768px) and (max-width: 1232px){
+        margin: 0 3rem 0 3rem;
+        width: calc(100% - 6rem);
+        
+    }
+}
+
+.app__flow-timeline{
+    width: 100%;
+    background: repeating-linear-gradient(to right, var(--lightBlue-color) 0,
+    var(--lightBlue-color) 3px, rgba(255,255,255,0) 3px,
+    rgba(255,255,255,0) 6px);
+    display:flex;
+    height: 3px;
+    // animation: animate 2.5s linear infinite;
+
+  }
+
+@keyframes animate {
+    0% {
+        width: 0%;
+    }
+
+   
+    100% {
+        width: 100%;
+    }
+}
+
+.app__flow-container-bottom{
+    justify-content: space-evenly;
+    display:flex;
+    height: 100%;
+    flex: 1;
+}
+
+.app__flow-container-top{
+    display:flex;
+    justify-content: space-between;
+    height: 100%;
+    flex:1
+}
+
+.app__flow-card-top{
+    width: 220px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    box-shadow: 0 0 25px rgba(0,0,0,0.15);
+    background-color: white;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem;
+
+    h3{
+        color: var(--darkBlue-color);
+        // position: absolute;
+        background-color: rgba(255,255,255,0.8);
+        bottom: 16px;
+    }
+
+    p{
+        color: var(--gray-color);
+    }
+}
+
+
+.app__flow-card-bottom{
+    width: 220px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column-reverse;
+    position: relative;
+    box-shadow: 0 0 25px rgba(0,0,0,0.15);
+    background-color: white;
+    margin-top: 1.5rem;
+    padding: 0.5rem;
+
+    h3{
+        color: var(--darkBlue-color);
+        // position: absolute;
+        background-color: rgba(255,255,255,0.8);
+        top: 16px;
+    }
+
+    p{
+        color: var(--gray-color);
+    }
+
+}
+
+.app__flow-card-wrapper{
+    background-color: white;
+    border-radius: 3px;
+    padding: 0.5rem;
+    height: 80px;
+    width: 80px;
+
+    img{
+        height: 100%;
+        width: 100%;
+        object-fit: scale-down;
+    }
+}
+
+.app__flow-cars-subitems{
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+svg{
+    color: var(--orange-color);
+    font-size:1.3rem;
+    margin-right: 0.5rem;
+}
+}
+
+.app__flow-mobile-view-container{
+    height: 100%;
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+}
+
+
+.app__flow-mobile-view-dotted{
+    height: 100%;
+    background: repeating-linear-gradient(to bottom, var(--lightBlue-color) 0,
+    var(--lightBlue-color) 3px, rgba(255,255,255,0) 3px,
+    rgba(255,255,255,0) 6px);
+    display:flex;
+    width: 3px;
+    margin-right: 1rem;
+}
+
+.app__flow-mobile-list-wrapper{
+width: 100%;
+display:flex;
+flex-direction: column;
+gap:1rem;
+padding: 1rem 0;
+
+}
+
+.app__flow-mobile-view-list-item{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 0 25px rgba(0,0,0,0.15);
+    background-color: white;
+    padding: 0.5rem;
+
+    h3{
+        color: var(--darkBlue-color);
+        // position: absolute;
+        background-color: rgba(255,255,255,0.8);
+        top: 16px;
+    }
+
+    p{
+        color: var(--gray-color);
+    }
+
+    img{
+        height: 80px;
+        width: 80px;
+        object-fit: scale-down;
+        padding: 0.5rem;
+
+    }
+
+}
+
+.dotted{
+    position: absolute;
+    width: 1rem;
+    background: repeating-linear-gradient(to right, var(--lightBlue-color) 0,
+    var(--lightBlue-color) 3px, rgba(255,255,255,0) 3px,
+    rgba(255,255,255,0) 6px);
+    display:flex;
+    height: 3px;
+    left: -1rem;
+    top:50%;
+    bottom:50%;
+    
+}
+
+.app__flow-mobile-view-content-container{
+    height:100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+
+    h3{
+        // width: 100%;
+        align-items: center;
+        justify-content: flex-start;
+        margin-left: 2rem;
+    }
+}
+
+
+.app__flow-mobile-view-subitems{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 2rem;
+svg{
+    color: var(--orange-color);
+    font-size:1.3rem;
+    margin-right: 0.5rem;
+}
+}
+

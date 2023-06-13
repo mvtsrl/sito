@@ -1,0 +1,82 @@
+{
+    "buttonText" : "Get Quotation",
+
+    "menuItems":  {
+        "lang": "en",
+        "items":[
+         {
+            "title": "<HomeFilled />",
+            "type":"title_only",
+            "subItems":[{
+                "title":"Get Quotation",
+                "link":"get_quotation"
+            }]
+        
+        },
+            {
+            "title": "About Us",
+            "type":"dropdown",
+            "subItems":[{
+                "title":"About Us",
+                "link":"/about"
+            },
+            {
+                "title":"Legislation",
+                "link":"/legislation"
+            }]
+        },
+        {
+            "title": "Services",
+            "type":"dropdown",
+            "subItems":[{
+                "title":"CNC Turning",
+                "link":"CNC_turning"
+            },
+            {
+                "title":"CNC Milling",
+                "link":"CNC_milling"
+            },
+            {
+                "title":"CNC Threading",
+                "link":"CNC_threading"
+            },
+            {
+                "title":"CNC Broaching",
+                "link":"CNC_broaching"
+            },
+            {
+                "title":"Reworking Pressed Parts",
+                "link":"reworking_pressed_parts"
+            },
+            {
+                "title":"Small Assemblies",
+                "link":"assemblies"
+            }]
+        
+        },{
+            "title": "Contact",
+            "type":"dropdown",
+            "subItems":[{
+                "title":"Get Quotation",
+                "link":"get_quotation"
+            }]
+        
+        },
+        {
+            "title": "Translation",
+            "type":"image",
+            "subItems":[{
+                "title":"en",
+                "img":"en"
+            },
+            {
+                "title":"it",
+                "img":"it"
+            }]
+        
+        }
+        
+    ]
+    
+    }
+}

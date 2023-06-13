@@ -1,0 +1,118 @@
+{
+    "services_page":{
+        "generic":{
+            "tolerances_title":"Tolleranze",
+            "generic_tolerances":[
+                    "Concentricità: ±0,005 mm",
+                    "Diametro (esterno/interno): ±0,005 mm",
+                    "Lunghezza: ±0,005 mm",
+                    "Rettilineità: ±0,005 mm"
+                ],
+            "standard": "Tolleranze controllate secondo la norma ISO 2768. Siete pregati di informare se avete requisiti di tolleranza specifici.",
+
+            "industries_title": "Settori di attività",
+            "industries_subtitle":"I nostri clienti operano nei seguenti settori di attività:",
+            "industries":[
+                "Aerospaziale", 
+                "Agricoltura", 
+                "Elettrodomestici", 
+                "Automotive", 
+                "Chimico", 
+                "Edilizia", 
+                "Dentale", 
+                "Elettronico", 
+                "Cibo", 
+                "Riscaldamento", 
+                "Ventilazione", 
+                "Aria Condizionata", 
+                "Attrezzature Pesanti", 
+                "Marine", 
+                "Medicale", 
+                "Militare", 
+                "Estrazione Mineraria", 
+                "Moto", 
+                "Campo Petrolifero", 
+                "Ottico",
+                "Imballaggio", 
+                "Ricreativo"
+            ],
+            "appliances_title":"Applicazioni previste",
+            "appliances":[
+                "Boccole", 
+                "Macchine per l'edilizia", 
+                "Elementi di fissaggio", 
+                "Allestimenti", 
+                "Forgiati", 
+                "Componenti idraulici", 
+                "Gioielli", 
+                "Componenti automotive", 
+                "Spille", 
+                "Alberi", 
+                "Prese", 
+                "Distanziali", 
+                "Fursi", 
+                "Barre filettate", 
+                "Componenti della turbina", 
+                "Valvole"
+            ]
+        },
+        "materials": [
+            {
+                "title": "Acciaio Inossidabile",
+                "image": "steel_bars"
+            },
+            {
+                "title": "Acciaio Automatico",
+                "image": "steel_bars"
+            },
+            {
+                "title": "Ottone",
+                "image": "brass_bars"
+            },
+            {
+                "title": "Rame",
+                "image": "copper_bars"
+            },
+            {
+                "title": "PVC",
+                "image": "plastic_bars"
+            },
+            {
+                "title": "Alluminio",
+                "image": "aluminum_bars"
+            }
+        ],
+        "materials_title":"Materiali",
+        "materials_subtitle": "Possiamo lavorare materiali che rientrano nelle seguenti categorie:",  
+        "CNC_Turning":{
+            "title": "CNC Automatic Turning",
+            "description": "CNC turning is one of the central methods of manufacturing. It can produce cylindrical parts with various contours.",
+            "image": "turning"
+            },
+        "CNC_Milling":{
+            "title": "CNC Automatic Milling",
+            "description": " Known for its accuracy and precision, the process is an integral part of several industries, most notable being automotive and aeronautics.",
+            "image": "milling" },
+        "CNC_Threading":{
+            "title": "CNC Automatic Threading",
+            "description": "Threaded parts are a fundamental metalwork process. Our CNC lathes are capable of turning internal, external, standard and special threads." ,
+            "image": "thread"
+        },
+        "CNC_Broaching":{
+            "title": "CNC Automatic Broaching",
+            "description": "Broaching is a machining process where a sharp, hardened, toothed tool removes material from a workpiece in a consistent, continuous, and accurate way. " ,
+            "image": "broaching"
+        },
+        "reworking_pressed_parts":{
+            "title": "Reworking Stamped Parts",
+            "description": "Using modern CNC lathes, we are capable of reworking stamped metal or injection-moulded plastic.",
+            "image": "ripresa"
+        },
+        "assemblies":{
+            "title": "Small Assemblies",
+            "description": "Our company has the required resources to assemble small components.",
+            "image": "assembly"
+        }
+
+    }
+}

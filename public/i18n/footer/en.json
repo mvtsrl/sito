@@ -1,0 +1,52 @@
+{   
+    "about_section":{
+    "about_title": "ABOUT",
+    "about": "Mivit Srl has been operating since 1970 in the field of turning and precision mechanics. Our company is integrated in various production sectors such as electromechanical, automotive, pneumatic and hydraulic system both within national and international markets.",
+    "quick_links_title": "QUICK LINKS",
+    "copyright": "Copyright (c) 2022 All Rights Reserved by Mivit Srl",
+    "vat_number": "VAT Number: 07137500018",
+    "quick_links":[
+        {
+        "title": "About Us",
+        "link":"/about"
+        },
+        {
+            "title": "Legislation",
+            "link":"/legislation"
+        },
+        {
+            "title": "CNC Turning",
+            "link":"/CNC_Turning"
+        },
+        {
+            "title": "CNC Milling",
+            "link":"/CNC_Milling"
+        },
+        {
+            "title": "CNC Threading",
+            "link":"/CNC_Threading"
+        },
+        {
+            "title": "CNC Broaching",
+            "link":"/CNC_Broaching"
+        },
+        {
+            "title": "Reworking",
+            "link":"/reworking_pressed_parts"
+        },
+        {
+            "title": "Small Assemblies",
+            "link":"/assemblies"
+        }],
+    "office_and_plant": "Office and Plant",
+    "plant_address": "Strada della Bruna Vecchia, 6 - 10040 Druento TO",
+    "telephone": "+39 011 984 1782 / 252",
+    "fax": "+39 011 984 0673",
+    "fax_title": "Fax:",
+    "email":"mivitsrl@gmail.com",
+    "registered_office":"Registered Office",
+    "contact": "Contact",
+    "registered_office_address": "Via Don Minzoni 8 - 10121 Torino"
+    }
+
+}

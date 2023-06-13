@@ -1,0 +1,42 @@
+{
+    "about_page":{
+        "about_title": "About us",
+        "section_one_title": "50 years of history",
+        "section_one_content_paragraph_one": "Mivit S.R.L. is a company started in the 1970's that operates in the field of automatic precision turning, working with every type of material, may it be ferrous or non ferrous (light alloys, stainless steels, alloy steels, Titan, Teflon, brass, aluminum,...) with dimensions that vary from 2 mm in diameter all the way to 60 mm; also doing recovery jobs on pre- pressure molded or semi-finished particulars.",
+        "sections_one_content_paragraph_two": "The turning department at Mivit has a machining sector composed of traditional cam turning lathes (Strohm and Traub), mono-spindle CNC turning machines with mobile and fixed headstock (Index, Traub, Hanwa, Gildemaister, Biglia, Nomura) and multi-spindle CNC turning machines (Utimac, Shuttle), all equipped with motorized tools to bring to a completion even the most complicated of jobs. All the machines are equipped with automatic bar loaders for obtaining a greater operating autonomy.",
+        "section_two_title": "Activity",
+        "section_two_paragraph_one": "MIVIT is specialised in automatic precision turning and realizes small metal parts by removing small chips of metal. The production can be realised on behalf of third parties, if specified by client.",
+        "section_two_paragraph_two": "The main processes carried out internally are:",
+        "section_two_processes":[
+        "Automatic CNC Turning",
+        "Automatic milling",
+        "Automatic threading",
+        "Automatic broaching",
+        "Resumption work on pressure molded products",
+        "Small assemblies"],
+        "section_three_title": "Infrastructure",
+        "section_three_paragraph_one": "The production processes and the storage of the raw materials are done in an area of ​​4.500 square meters, out of which 1600 are covered.",
+        "section_three_paragraph_two": "The fleet includes:",
+        "section_three_list":[
+            "Automatic numerical control lathes that can work bars up to a diameter of 70mm",
+            "Automatic cam lathes that can work bars up to a diameter of 25mm",
+            "Multi-spindle lathes with bar passage up to 40mm, CNC",
+            "Automatic oil removal and chip separation system",
+            "Washing with modified alcohol",
+            "Cutter, lathe and grinder for the construction of internal equipment"
+        ],
+        "section_four_title":"Quality",
+        "section_four_paragraph_one":"The tests and controls are made in every phase of the production process and are made with the aim of guaranteeing the requested requirements are met, they are made by means of appropriate tools such as: projectors, micrometers, roughness tester and other specific equipment for the required task, so that the precision of the measure and the repeatability are guaranteed.",
+        "section_four_paragraph_two":"MIVIT S.R.L. has a non climatised metrological room, equipped with:",
+        "section_four_list":[
+            "CNC optical machine with probe",
+            "Profile measurement machine",
+            "Roughness tester",
+            "Profile projectors"
+        ],
+        "section_five_title": "Legislation",
+        "section_five_paragraph_one":"Our company is Industry 4.0 integrated and our Management System is UNI EN ISO 9001:2015 standard compliant."
+        
+
+    }
+}
