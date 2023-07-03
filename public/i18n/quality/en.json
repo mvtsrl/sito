@@ -1,0 +1,38 @@
+{
+  "quality": {
+    "title": "Quality policy",
+    "p_one": "The Quality Management System (QMS) of MIVIT S.R.L. S.U. it supervises all corporate activities functional to the achievement of the objectives that are intended to be pursued and guaranteed over time, implemented in accordance with the UNI EN ISO 9001:2015 standard.",
+    "p_two": "The core values ​​of the Quality policy and on which we have built the QMS are:",
+    "values": [
+      { "title": "Customer satisfaction;" },
+      { "title": "Product quality;" },
+      { "title": "The satisfaction of interested parties;" },
+      {
+        "title": "The methodologies and tools used, the use of tested methodologies and high-precision tools are fundamental elements to guarantee the correct delivery of the services offered also through the company's new investments;"
+      },
+      {
+        "title": "Company MIVIT S.R.L. S.U., in order to improve the results achieved, we will continue to be adequately trained and motivated people to guarantee:",
+        "subtitles": [
+          "Customer relations based on the spirit of collaboration, mutual trust and professionalism;",
+          "Promoting a sense of responsibility, productivity, self-control and efficiency;",
+          "Compliance with safety and working within environmental standards;"
+        ]
+      },
+      {
+        "title": "The risk management approach: to be applied at all levels, starting from the performance of commercial activities up to operational ones, following strategic decisions and project management."
+      },
+      {
+        "title": "Positive economic results: they represent the ultimate reference for all our abilities and our efforts and guarantee us that we can continue along the path we have taken;"
+      },
+      {
+        "title": "QMS objectives:",
+        "subtitles": [
+          "Adopt and continuously improve an organizational model and a set of processes that allow us to honor the commitments undertaken with our customers, also through improvements and the implementation of a new management system and industry 4.0.",
+          "Creation of products that meet customer needs, both in terms of quality and that are also commercially competitive;",
+          "Promote the professional growth of our resources, helping them to fully develop their potential and awareness of their contribution in relation to common objectives, both in individual and group work, encouraging active involvement;"
+        ]
+      }
+    ],
+    "p_three": "The Quality Management System is therefore configured as a preventive system and as an interest of the whole company and feeds itself on the acquired conviction that, in order to improve, it is necessary to constantly evaluate oneself and verify the results of one's work in the logic of continuous improvement, which requires everyone's involvement and participation."
+  }
+}

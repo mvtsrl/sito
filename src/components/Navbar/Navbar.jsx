@@ -53,7 +53,7 @@ const Navbar = () => {
 
   useEffect(() => {
     window.onscroll = () =>
-      window.pageYOffset === 0 ? setOnTop(true) : setOnTop(false);
+      window.scrollY === 0 ? setOnTop(true) : setOnTop(false);
 
     return () => (window.onscroll = null);
   }, []);
@@ -195,7 +195,7 @@ const Navbar = () => {
                               </li>
                             )}
 
-                            {item.type === "image" && (
+                            {item?.type === "image" && (
                               <li
                                 key={`link-${item.title}`}
                                 className="app__flex p-text column"
@@ -365,7 +365,6 @@ const Navbar = () => {
                           className="app__flex p-text"
                         >
                           <p>
-                            {console.log(images)}
                             {images[region] ? (
                               <img
                                 className="app_navbar-list-titles-image"

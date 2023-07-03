@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { CaretDownFilled } from "@ant-design/icons";
 import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 import { images } from "../../constants";
 
@@ -72,13 +73,14 @@ const DropdownNavbar = ({
                       className="app__dropdown-li"
                     >
                       {type === "dropdown" ? (
-                        <Link
+                        <HashLink
+                          smooth
                           to={subtitle.link}
                           onClick={handleClose}
                           style={{ textDecoration: "none" }}
                         >
                           <p>{subtitle.title}</p>
-                        </Link>
+                        </HashLink>
                       ) : (
                         type === "image" && (
                           <img

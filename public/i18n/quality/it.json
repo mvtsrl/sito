@@ -1,0 +1,39 @@
+{
+  "quality": {
+    "title": "Politica per la qualità",
+    "p_one": "Il Sistema di Gestione per la qualità (SGQ) della MIVIT S.R.L. S.U. sovrintende tuttle le attività aziendali funzionali al raggiungimento degli obiettivi che si intendono proseguire e garantire nel tempo, ed è attuato in accordo con la norma UNI EN ISO 9001:2015.",
+    "p_two": "I valori portanti della politica per la Qualità e sui quali abbiamo costruito il SGQ sono:",
+    "values": [
+      { "title": "La soddisfazione del cliente;" },
+      { "title": "La qualità dei prodotti;" },
+      { "title": "La soddisfazione delle parti interessate;" },
+      {
+        "title": "Le metodologie e gli strumenti utilizzati, l’impiego di metodologie collaudate e strumenti di alta precisione sono elementi fondamentali per garantire la corretta erogazione dei servizi offerti anche attraverso i nuovi investimenti dell’azienda;"
+      },
+      {
+        "title": "Società MIVIT S.R.L. S.U., per migliorare i risultati raggiunti continueremo ad essere persone adeguatamente preparate e motivate per garantire:",
+        "subtitles": [
+          "Relazioni con il cliente basate sullo spirito di collaborazione, la fiducia reciproca ed alla professionalità;",
+          "Promozione del senso di responsabilità, della produttività, dell’autocontrollo e dell’efficienza;",
+          "Rispetto delle norme di sicurezza e dell’ambiente di lavoro;"
+        ]
+      },
+      {
+        "title": "L’approccio alla gestione del rischio: da applicare a tutti i livelli; a partire dallo svolgimento delle attività commerciali fino a quelle operative, nelle decisioni strategiche e nella gestione dei progetti."
+      },
+      {
+        "title": "I risultati economici positivi: rappresentano il riferimento ultimo di tutte le nostre capacità ed i nostri sforzi e ci garantiscono di poter proseguire sulla strada intrapresa;"
+      },
+      {
+        "title": "Gli obiettivi per la qualità:",
+        "subtitles": [
+          "Adottare e migliorare con continuità un modello organizzativo e un insieme di processi che consentano di onorare gli impegni assunti con i nostri clienti, attraverso anche alle migliorie ed alla implementazione di un nuovo gestionale e dell’industria 4.0.",
+          "Realizzazione di prodotti che rispondano alle esigenze dei clienti, sia a livello qualitativo ed anche commercialmente competitivi;",
+          "Mantenere attivo un sistema di gestione della qualità efficace ed efficiente, seguendo le indicazioni contenute nella norma UNI EN ISO 9001:2015 ed integrato con le specifiche caratteristiche della nostra organizzazione e dei clienti;",
+          "Favorire la crescita professionale delle nostre risorse umane, aiutandole a sviluppare pienamente il proprio potenziale e la consapevolezza del proprio contributo in relazione agli obiettivi comuni , sia nel lavoro individuale che in quello di gruppo, favorendo il coinvolgimento attivo;"
+        ]
+      }
+    ],
+    "p_three": "Il Sistema di Gestione per la Qualità si configura quindi come sistema preventivo e come interesse di tutta l’azienda e si autoalimenta nella convinzione acquisita che, per migliorarsi, occorre costantemente autovalutarsi e verificare i risultati del proprio lavoro nella logica del miglioramento continuo, che richiede il coinvolgimento e la partecipazione di tutti."
+  }
+}

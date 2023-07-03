@@ -1,83 +1,85 @@
 {
+  "buttonText": "Richiedi Offerta",
 
-    "buttonText" : "Richiedi Offerta",
-
-    
-    "menuItems": {
-        "lang":"it",
-        "items":[
-         {
-            "title": "HomeFilled",
-            "type":"title_only"
-             
-        },
-            {
+  "menuItems": {
+    "lang": "it",
+    "items": [
+      {
+        "title": "HomeFilled",
+        "type": "title_only"
+      },
+      {
+        "title": "Azienda",
+        "type": "dropdown",
+        "subItems": [
+          {
             "title": "Azienda",
-            "type":"dropdown",
-            "subItems":[{
-                "title":"Azienda",
-                "link":"about"
-            },
-            {
-                "title":"Certificazioni",
-                "link":"legislation"
-            }]
-        },
-        {
-            "title": "Servizi",
-            "type":"dropdown",
-            "subItems":[{
-                "title":"Tornitura CNC",
-                "link":"CNC_turning"
-            },
-            {
-                "title":"Fresatura CNC",
-                "link":"CNC_milling"
-            },
-            {
-                "title":"Filettatura CNC",
-                "link":"CNC_threading"
-            },
-            {
-                "title":"Brocciatura CNC",
-                "link":"CNC_broaching"
-            },
-            {
-                "title":"Ripresa su prodotti stampati",
-                "link":"reworking_pressed_parts"
-            },
-            {
-                "title":"Piccoli assemblaggi",
-                "link":"assemblies"
-            }]
-        
-        },{
-            "title": "Contatto",
-            "type":"dropdown",
-            "subItems":[{
-                "title":"Ottieni Quotazione",
-                "link":"get_quotation"
-            },
-            {
-                "title":"Informazioni",
-                "link":"imprint"
-            }]
-        
-        },
-        {
-            "title": "Translation",
-            "type":"image",
-            "subItems":[{
-                "title":"en",
-                "img":"en"
-            },
-            {
-                "title":"it",
-                "img":"it"
-            }]
-        
-        }
-        
+            "link": "about"
+          },
+          {
+            "title": "Certificazioni",
+            "link": "legislation"
+          },
+          {
+            "title": "Politica qualità",
+            "link": "quality_policy"
+          }
+        ]
+      },
+      {
+        "title": "Servizi",
+        "type": "dropdown",
+        "subItems": [
+          {
+            "title": "Tornitura CNC",
+            "link": "CNC_turning"
+          },
+          {
+            "title": "Fresatura CNC",
+            "link": "CNC_milling"
+          },
+          {
+            "title": "Filettatura CNC",
+            "link": "CNC_threading"
+          },
+          {
+            "title": "Brocciatura CNC",
+            "link": "CNC_broaching"
+          },
+          {
+            "title": "Ripresa su prodotti stampati",
+            "link": "reworking_pressed_parts"
+          },
+          {
+            "title": "Piccoli assemblaggi",
+            "link": "assemblies"
+          }
+        ]
+      },
+      {
+        "title": "Contatto",
+        "type": "dropdown",
+        "subItems": [
+          {
+            "title": "Ottieni Quotazione",
+            "link": "/#contact"
+          }
+        ]
+      },
+      {
+        "title": "Translation",
+        "type": "image",
+        "subItems": [
+          {
+            "title": "en",
+            "img": "en"
+          },
+          {
+            "title": "it",
+            "img": "it"
+          }
+        ]
+      }
     ]
-    }
+  }
 }

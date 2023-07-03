@@ -1,7 +1,7 @@
 .app {
   background-color: var(--white-color);
   font-family: var(--font-base);
-  
+  min-height: 100%;
 }
 
 .app__whitebg {
@@ -16,7 +16,7 @@
   background-color: #f7f7f7;
 }
 
-.app_smooth_scroll{
+.app_smooth_scroll {
   scroll-behavior: smooth;
 }
 
@@ -35,7 +35,7 @@
   align-items: center;
 }
 
-.column{
+.column {
   display: flex;
   flex-direction: column;
 }
@@ -125,7 +125,7 @@
 
   padding: 1rem;
 
-  div {
+  a {
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -185,16 +185,15 @@
   padding: 0.75rem;
   z-index: 5;
 
-
-  div{
+  div {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color:var(--white-color);
+    background-color: var(--white-color);
     border: 1px solid var(--lightGray-color);
     padding: 0.25em;
-    border-radius:  10px;
+    border-radius: 10px;
   }
 
   .app__navigation-dot {

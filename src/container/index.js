@@ -8,3 +8,4 @@ export { default as ServicesMilling } from "./Services/ServicesMilling/ServicesM
 export { default as ServicesThreading } from "./Services/ServicesThreading/ServicesThreading.jsx";
 export { default as SmallAssemblies } from "./Services/SmallAssembelies/SmallAssemblies.jsx";
 export { default as GetQuotation } from "./Contact/GetQuotation/GetQuotation.jsx";
+export { default as QualityPolicy } from "./QualityPolicy/QualityPolicy.jsx";
