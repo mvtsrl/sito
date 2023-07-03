@@ -123,7 +123,7 @@ const ContactForm = ({ popup, closePopup }) => {
           }
         >
           <form
-            action="https://formsubmit.co/bb7ebfe97b50b1afa9ca1e5d42266fd1"
+            action="https://formsubmit.co/mivitsrl@gmail.com"
             method="POST"
             encType="multipart/form-data"
             id="form"
