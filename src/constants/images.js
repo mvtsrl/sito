@@ -28,9 +28,15 @@ import aluminum_bars from "../assets/alluminum_bars.png";
 import brass_bars from "../assets/brass_bars.png";
 import copper_bars from "../assets/copper_bars.png";
 import plastic_bars from "../assets/plastic_bars.png";
+import pannels_image_one from "../assets/pannel_image_one.jpeg"
+import pannels_image_two from "../assets/pannel_image_two.jpeg"
+import pannel_video from "../assets/pannel_video.mp4"
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
+  pannel_video,
+  pannels_image_one,
+  pannels_image_two,
   logo,
   arrowDown,
   en,

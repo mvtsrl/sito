@@ -29,6 +29,9 @@ const AboutUs = () => {
     section_four_list,
     section_five_title,
     section_five_paragraph_one,
+    section_six_title,
+    section_six_paragraph_one,
+    section_six_paragraph_two,
   } = t("about_page", { returnObjects: true });
 
   useEffect(() => {
@@ -104,6 +107,31 @@ const AboutUs = () => {
         </div>
 
         <div className="app__about-page-section">
+  <h2>{section_six_title}</h2>
+
+  <p>{section_six_paragraph_one}</p>
+
+  <p>{section_six_paragraph_two}</p>
+
+        <div className="app__about-media-photos">
+          <img className="solar_pannel_image" src={images.pannels_image_one} alt="solar-panel-installation-1" />
+         
+         
+        <video
+          className="app__about-media-video"
+          src={images.pannel_video}
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+
+          <img  className="solar_pannel_image" src={images.pannels_image_two} alt="solar-panel-installation-2" />
+
+      </div>
+    </div>
+
+        <div className="app__about-page-section">
           <h2>{section_five_title}</h2>
 
           <p>{section_five_paragraph_one}</p>
@@ -113,10 +141,10 @@ const AboutUs = () => {
               <img src={images.logo_dnv} alt="logo-dnv" />
             </div>
             <div className="app__about-logo-card">
-              <img src={images.logo_accredia} alt="logo-accredia" />
+              <img src={images.industry_40} alt="logo-industry_40" />
             </div>
             <div className="app__about-logo-card">
-              <img src={images.industry_40} alt="logo-industry_40" />
+              <img src={images.logo_accredia} alt="logo-accredia" />
             </div>
           </div>
         </div>

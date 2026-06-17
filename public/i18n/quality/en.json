@@ -2,7 +2,7 @@
   "quality": {
     "title": "Quality policy",
     "p_one": "The Quality Management System (QMS) of MIVIT S.R.L. S.U. it supervises all corporate activities functional to the achievement of the objectives that are intended to be pursued and guaranteed over time, implemented in accordance with the UNI EN ISO 9001:2015 standard.",
-    "p_two": "The core values ​​of the Quality policy and on which we have built the QMS are:",
+    "p_two": "The core values of the Quality policy and on which we have built the QMS are:",
     "values": [
       { "title": "Customer satisfaction;" },
       { "title": "Product quality;" },
@@ -29,7 +29,15 @@
         "subtitles": [
           "Adopt and continuously improve an organizational model and a set of processes that allow us to honor the commitments undertaken with our customers, also through improvements and the implementation of a new management system and industry 4.0.",
           "Creation of products that meet customer needs, both in terms of quality and that are also commercially competitive;",
+          "Maintain an effective and efficient quality management system, following the guidelines of the UNI EN ISO 9001:2015 standard and integrated with the specific characteristics of our organization and our customers;",
           "Promote the professional growth of our resources, helping them to fully develop their potential and awareness of their contribution in relation to common objectives, both in individual and group work, encouraging active involvement;"
+        ]
+      },
+      {
+        "title": "Environmental responsibility: the company is committed to reducing its environmental impact and operating in line with sustainable, energy-efficient practices, supported by:",
+        "subtitles": [
+          "A photovoltaic solar panel system with an installed capacity of approximately 150 kW, covering a significant share of the company's energy needs with clean, renewable energy;",
+          "Continuous monitoring of energy consumption to identify further opportunities for efficiency and reduced environmental impact;"
         ]
       }
     ],

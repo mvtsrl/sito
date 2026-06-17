@@ -19,6 +19,48 @@
 
 }
 
+.app__about-media-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.app__about-media-photos {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  width: 100%;
+  max-width: 100%;
+  flex: 1;
+
+  margin-top: 32px;
+
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.solar_pannel_image {
+  height: 220px;
+  width: auto;
+  border-radius: 8px;
+  flex: 1;
+  object-fit: cover;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.app__about-media-video {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 .app__about-page-title-wrapper{
   display:flex;
   align-items:center;
