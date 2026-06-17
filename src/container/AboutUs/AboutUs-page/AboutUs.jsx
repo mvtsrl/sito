@@ -117,14 +117,14 @@ const AboutUs = () => {
           <img className="solar_pannel_image" src={images.pannels_image_one} alt="solar-panel-installation-1" />
          
          
-        <video
-          className="app__about-media-video"
-          src={images.pannel_video}
-          autoPlay
-          loop
-          muted
-          playsInline
-        />
+          <video
+            className="app__about-media-video"
+            src={images.pannel_video}
+            autoPlay
+            loop
+            muted
+            playsInline
+          />
 
           <img  className="solar_pannel_image" src={images.pannels_image_two} alt="solar-panel-installation-2" />
 
