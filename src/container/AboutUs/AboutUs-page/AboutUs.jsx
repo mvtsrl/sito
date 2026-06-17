@@ -113,12 +113,12 @@ const AboutUs = () => {
 
   <p>{section_six_paragraph_two}</p>
 
-        <div className="app__about-media-photos">
-          <img className="solar_pannel_image" src={images.pannels_image_one} alt="solar-panel-installation-1" />
+        <div className="app__about-media">
+          <img className="solar_pannel" src={images.pannels_image_one} alt="solar-panel-installation-1" />
          
          
           <video
-            className="app__about-media-video"
+            className="solar_pannel_video"
             src={images.pannel_video}
             autoPlay
             loop
@@ -126,7 +126,7 @@ const AboutUs = () => {
             playsInline
           />
 
-          <img  className="solar_pannel_image" src={images.pannels_image_two} alt="solar-panel-installation-2" />
+          <img  className="solar_pannel" src={images.pannels_image_two} alt="solar-panel-installation-2" />
 
       </div>
     </div>
